@@ -6,4 +6,4 @@ services:
     ports:
     - '80:80'
     volumes:
-    - ./website:/usr/local/apache2/htdocs
+    - C:\Users\ferna\OneDrive\Documentos\Projetos\docker-projeto1-dio\website:/usr/local/apache2/htdocs
